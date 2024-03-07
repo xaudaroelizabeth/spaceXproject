@@ -9,7 +9,8 @@ body {
     background-image: url("images/galaxy.webp");
     background-size: cover;
     padding: 10px 0 40px 0;
-    max-width:900px;
+    max-width:auto;
+    max-height:2000px;
 }
 
 #main-logo {
